@@ -41,7 +41,9 @@ $ git clone https://github.com/jupeeze/CoinStep_Release.git
 
 # 添付ファイル
 
+https://github.com/jupeeze/CoinStep_Release/blob/main/%E4%BB%95%E6%A7%98%E6%9B%B8.pdf
 
+https://github.com/jupeeze/CoinStep_Release/blob/main/%E6%93%8D%E4%BD%9C%E8%AA%AC%E6%98%8E%E6%9B%B8.pdf
 
 ---
 
